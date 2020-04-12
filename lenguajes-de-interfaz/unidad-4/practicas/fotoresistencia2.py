@@ -47,7 +47,7 @@ while not terminado:
         if event.type == pygame.QUIT:
             terminado = True
 
-    #valor_ldr = ldr.read()
+    valor_ldr = ldr.read()
     if valor_ldr < 470: # MODO OSCURO.
         screen.fill(dark['fondo'])
         screen.blit(texto_oscuro,
