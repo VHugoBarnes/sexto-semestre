@@ -3,8 +3,8 @@
 # include <ctype.h>
 
 char *tokens[] = {"el", "la", "gato", "perro", "mujer", "hombre", "computadora", "robot", \
- "hizo", "mordio", "come", "programa", "el alumno", "la alumna", "la computadora", \
- "programacion", "pastel", "platano"};
+ "hizo", "mordio", "come", "programa", "ve", "estudia", "el alumno", "la alumna", "la computadora", \
+ "programacion", "pastel", "platano", "robots", "sitios web"};
 char cadenasujeto[100],cadenaverbo[100],cadenaobjeto[100];
 
 void iniciarpartes ()
