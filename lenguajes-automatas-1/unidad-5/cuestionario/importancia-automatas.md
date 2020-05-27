@@ -1,0 +1,4 @@
+En nuestra opinión, el estudio del autómata es importante para los científicos en computación porque les ayuda a conocer las capacidades y límites que puede tener el software o hardware que estén diseñando/construyendo. Ya sea reconocer qué problemas lo pueden resolver las máquinas de computo, cuales tardan en solucionarse o cuales es completamente inviable con el hardware disponible. 
+
+También su importancia radica en que su campo de aplicación aún sigue en uso como el software para diseño y verificación de circuitos digitales o en analizadores léxicos en compiladores actuales, por eso su estudio es indispensable hoy en día. Además las bases del automata como la máquina de turing se basa la computación como la conocemos hoy en día, y es indispensable su conocimiento para poder seguir entendiendo y quizá mejorar su desarrollo para resolver problemas.
+
